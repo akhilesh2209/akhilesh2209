@@ -14,7 +14,7 @@ Final-year B.Tech Computer Science student passionate about building full-stack 
 - Full-stack web application for flight booking and management
 - Built using Node.js, Express, MongoDB, and Flask
 - Features user authentication, flight search, and booking APIs  
-🔗 https://github.com/akhilesh2209/airline-reservation
+🔗 https://github.com/akhilesh2209/airline-reservation-system
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/wuna-akhilesh-03349230a
