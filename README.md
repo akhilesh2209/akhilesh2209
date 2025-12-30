@@ -1,4 +1,6 @@
 # Hi 👋 I'm Wuna Akhilesh
+🔗 **GitHub:** https://github.com/akhilesh2209  
+🔗 **LinkedIn:** https://www.linkedin.com/in/wuna-akhilesh-03349230a
 
 Final-year B.Tech Computer Science student passionate about building full-stack and backend applications.
 
